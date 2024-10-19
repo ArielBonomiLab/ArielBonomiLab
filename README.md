@@ -1,6 +1,4 @@
-👨‍💻 **Computer Engineer | Java & MuleSoft Developer**
-
-I'm a Computer Engineer from Argentina with experience in backend development, particularly with Java and MuleSoft. I enjoy working on system integrations, microservices architecture, and optimizing code to improve efficiency and scalability.
+👨‍💻 **Computer Engineer | Backend Developer**
 
 ### 💼 **Work Experience:**
 
