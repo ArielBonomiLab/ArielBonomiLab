@@ -1,16 +1,32 @@
-## Hi there 👋
+👨‍💻 **Computer Engineer | Java & MuleSoft Developer**
 
-<!--
-**ArielBonomiLab/ArielBonomiLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineer from Argentina with experience in backend development, particularly with Java and MuleSoft. I enjoy working on system integrations, microservices architecture, and optimizing code to improve efficiency and scalability.
 
-Here are some ideas to get you started:
+### 💼 **Work Experience:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MuleSoft Developer (Jr. - Ssr.)**  
+_Acqua Integration Consulting | Sep 2019 - Mar 2022_  
+- Developed and configured MuleSoft flows to integrate various systems.
+- Enhanced existing projects by adding performance improvements.
+- Created integration projects from scratch for different clients.
+
+**Java Backend Developer (Ssr.)**  
+_Provincia Seguros | Mar 2022 - May 2024_  
+- Developed microservices and migrated projects.
+- Created and maintained RESTful services.
+- Performed thorough testing and documentation.
+- Collaborated within Scrum teams.
+
+**Java Backend Developer (Sr.)**  
+_Stefanini | Jul 2024 - Present_  
+- Leading the migration of a monolithic project to microservices with a separate React front-end.
+
+### 🎓 **Education:**
+
+**Computer Engineer**  
+_Universidad del Salvador, Buenos Aires, Argentina_
+
+**Additional Courses:**  
+- Microservices: The Complete Guide to Docker & Kubernetes  
+- JUnit & Mockito  
+- Microservices with Spring Cloud
